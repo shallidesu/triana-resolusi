@@ -2,4 +2,5 @@ RENCANA KONTEN TRIANA
 
 - Javascript
 - PHP Frameworks
-- Java
+- Javascript Frameworks
+- Laravel
