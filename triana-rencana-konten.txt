@@ -1,8 +1,9 @@
 RENCANA KONTEN TRIANA
 
+- Javascript
+ * Dari awal
 - PHP Frameworks
   * Laravel
 - Javascript Frameworks
-  * Angular
-- Laravel
+  * Vue
 - Block Chain
