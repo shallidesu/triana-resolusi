@@ -1,7 +1,8 @@
 RENCANA KONTEN TRIANA
 
-- Javascript
 - PHP Frameworks
+  * Laravel
 - Javascript Frameworks
+  * Angular
 - Laravel
 - Block Chain
